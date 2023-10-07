@@ -10,5 +10,5 @@
 
 #3.CountDown Timer
 #-------------------------------------------------view LIve Project-----------------------
-#Link:- https://3v8zs8dbnehghyyxlljy7g.on.drv.tw/TechnoHack_Internship_Assignment/CountDown Timer/
+#Link:- https://3v8zs8dbnehghyyxlljy7g.on.drv.tw/TechnoHack_Internship_Assignment/CountDown_Timer/
 ![output2](https://github.com/akku27-cse/TechnoHack_InternShip/assets/115920400/de1a2a71-34fd-4907-8791-1040ba7846fc)
